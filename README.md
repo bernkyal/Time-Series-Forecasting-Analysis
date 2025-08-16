@@ -1,5 +1,5 @@
 # Time-Series-Forecasting-Analysis
-This project aims to explore forecasting using times series predictions. 
+This project aims to explore forecasting using times series modelling. 
 
 **Python / Jupyter Notebook:** 
 Enter the jupyter notebook file for a detailed explaination of how I got went through this task.
